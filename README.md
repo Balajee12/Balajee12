@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Aspiring AI engineer focused on Generative AI and robotics innovation. Turning ideas into implementations and exploring the next wave of intelligent technology.<br>
+#Aspiring AI engineer focused on Generative AI and robotics innovation. Turning ideas into implementations and exploring the next wave of intelligent technology.<br>
 
 
 ## 🌐 Socials:
